@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+    background-image: url("../images/background.jpg")
+}
+
+.navbar {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.container {
+    width: 75%;
+    border-color: black;
+    display: -webkit-box;
+}
